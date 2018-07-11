@@ -59,6 +59,12 @@ function init() {
  
 }
 
+function executeEffect (){
+    init();
+    setTimeout(executeEffect, 5000);
+}
+
+executeEffect();
 
 
-word.addEventListener('mouseenter', init)
+// word.addEventListener('mouseenter', init)
