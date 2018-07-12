@@ -9,14 +9,20 @@ body {
 p {
     font-size:40px;
     display:block;
+    overflow-wrap: break-word;
     text-align:center;
     line-height:100px;
     height:100px;
     margin-top:40vh;
     text-transform:uppercase;
     letter-spacing:10px;
-    position: absolute;
+    position: relative;
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  
+
+@media only screen and (max-width:490px){
+    p{
+        font-size: 8vw;
+    }
+}
