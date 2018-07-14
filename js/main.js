@@ -59,6 +59,7 @@ function init() {
  
 }
 
+//recursive call function, no memory leak, setTimeout waits for the end of the function execution before another call
 function executeEffect (){
     init();
     setTimeout(executeEffect, 5000);
