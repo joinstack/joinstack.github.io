@@ -337,6 +337,12 @@ nav ul li a {
     }
 }
 
+@media (max-width: 350px){
+    .contact-container p {
+        overflow-wrap: break-word;
+    }
+}
+
 .contact-container {
  padding-left:10px;
  margin-top:40vh;
