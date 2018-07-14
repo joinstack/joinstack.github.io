@@ -324,6 +324,12 @@ nav ul li a {
     }
 }
 
+@media (min-width:600px) and (max-width:1023px){
+    .contact-container {
+        max-width: 60%;
+    }
+}
+
 @media (max-width:1300px) and (min-width:1024px){
     .footer_col:nth-child(2) {
         margin-right: 5%;
