@@ -310,6 +310,10 @@ nav ul li a {
         padding-bottom: 120px;
         padding-top: 90px;
     }
+
+    .contact-container {
+        max-width:40%;
+    }
 }
 
 @media screen and(min-width:1040px){
@@ -325,4 +329,9 @@ nav ul li a {
         margin-right: 5%;
         width:9.5%;
     }
+}
+
+.contact-container {
+ padding-left:10px;
+ margin-top:40vh;
 }
