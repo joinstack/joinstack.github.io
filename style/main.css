@@ -71,6 +71,23 @@ nav ul li a {
     font-weight: 600;
 }
 
+.typewrite {
+    text-decoration: none;
+    color:#fff;
+    font-size:40px;
+    display:block;
+    overflow-wrap: break-word;
+    text-align:center;
+    line-height:100px;
+    height:auto;
+    margin-top:40vh;
+    text-transform:uppercase;
+    letter-spacing:10px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 @media screen and (max-width:864px) {
     .logo {
         padding: 0;
@@ -233,6 +250,10 @@ nav ul li a {
         font-size: 8vw;
     }
 
+    .typewrite {
+        font-size: 25px;
+    }
+
     .footer {
         font-size:6vw;
     }
@@ -240,6 +261,10 @@ nav ul li a {
 
 @media only screen and (max-width:619px){
     .matrix-ad {
+        height:210px;
+    }
+
+    .typewrite {
         height:210px;
     }
 }
@@ -366,3 +391,4 @@ nav ul li a {
     padding-right:10px;   
     line-height:20px;
 }
+
