@@ -261,11 +261,11 @@ nav ul li a {
 
 @media only screen and (max-width:619px){
     .matrix-ad {
-        height:210px;
+        height:auto;
     }
 
     .typewrite {
-        height:210px;
+        height:auto;
     }
 }
 
