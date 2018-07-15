@@ -74,6 +74,7 @@ nav ul li a {
 @media screen and (max-width:864px) {
     .logo {
         padding: 0;
+        margin-top: 12px;
     }
 
     .nav-wrapper {
@@ -352,4 +353,16 @@ nav ul li a {
 .contact-container {
  padding-left:10px;
  margin-top:40vh;
+}
+
+.content-container {
+    padding-left:10px;
+    padding-right: 10px;
+    height: 100px;
+}
+
+#typedtext {
+    padding-left:10px;
+    padding-right:10px;   
+    line-height:20px;
 }
