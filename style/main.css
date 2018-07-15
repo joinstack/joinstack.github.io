@@ -84,8 +84,8 @@ nav ul li a {
         height: 100%;
         z-index: -1;
         /* background: linear-gradient(0deg, rgba(0, 0, 200, 0.6) , rgba(0, 0, 200, 0) ); */
-        background: linear-gradient(120deg, rgba(50, 150, 100, 1) , rgba(0, 0, 100, 1) );
-        /* background: #000; */
+        /* background: linear-gradient(120deg, rgba(50, 150, 100, 1) , rgba(0, 0, 100, 1) ); */
+        background: #000;
         opacity: 0;
         transition: all 0.2s ease;
     }
