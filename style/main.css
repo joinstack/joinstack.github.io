@@ -237,6 +237,12 @@ nav ul li a {
     }
 }
 
+@media only screen and (max-width:619px){
+    .matrix-ad {
+        height:210px;
+    }
+}
+
 .footer_col-intro {
     border-bottom: 1px solid #272727;
     clear: both;
