@@ -308,6 +308,10 @@ nav ul li a {
     width:50%;
 }
 
+.center-text {
+    text-align: center;
+}
+
 .footer_link {
     color: #9b9b9b;
     display:block;
@@ -407,4 +411,8 @@ nav ul li a {
 .body-text .header {
     font-weight: 600;
     font-size: 18px;
+}
+
+.body-text ul {
+    padding-left:0;
 }
