@@ -7,7 +7,7 @@ body {
    }
 
 .matrix-ad {
-    font-size:40px;
+    font-size:30px;
     display:block;
     overflow-wrap: break-word;
     text-align:center;
@@ -74,7 +74,7 @@ nav ul li a {
 .typewrite {
     text-decoration: none;
     color:#fff;
-    font-size:40px;
+    font-size:30px;
     display:block;
     overflow-wrap: break-word;
     text-align:center;
@@ -251,7 +251,7 @@ nav ul li a {
     }
 
     .typewrite {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .footer {
