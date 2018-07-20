@@ -11,7 +11,6 @@ var aText = new Array(
     "Scaled up or scaled down, on any screen or surface. You name it, we make it.",
     "Because we help brands all over the world to create impressive products!"
     );
-    var iSpeed = 75; // time delay of print out
     var iIndex = 0; // start printing array at this posision
     var iArrLength = aText[0].length; // the length of the text array
     var iScrollAt = 20; // start scrolling up at this many lines
