@@ -440,3 +440,78 @@ div.lead {
     font-weight: 300;
     line-height: 1.4;
 }
+
+.quote {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.feature-heading .fa-stack-1x {
+    color: #333333;
+}
+
+@media (max-width: 991px) {
+    .feature:nth-child(odd) .feature-heading .fa-circle {
+        color: #CDCDCD;
+    }    
+}
+
+.feature-heading .fa-circle {
+    color: #CDCDCD;
+}
+
+.feature-heading span {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: calc(100% - 80px);
+    word-break: break-word;
+}
+
+@media (max-width: 991px) {
+    .feature:nth-child(odd), .feature:nth-child(even) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+}
+
+.features {
+    display: inline-block;
+    padding-bottom: 60px;
+}
+
+.feature-heading {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 28px;
+    text-align: left;
+}
+
+.feature-heading .fa-stack {
+    left: -5px;
+}
+
+@media (max-width: 991px) {
+    .feature {
+        padding-top: 20px;
+    }
+}
+
+.quote {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.quote span {
+    width: 86%;
+}
