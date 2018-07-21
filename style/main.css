@@ -452,7 +452,20 @@ div.lead {
 }
 
 .feature-heading .fa-stack-1x {
-    color: #333333;
+    color: #000;
+}
+
+.feature-heading .fa-stack-2x {
+    color: #000;
+}
+
+}
+
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
 
 @media (max-width: 991px) {
