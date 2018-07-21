@@ -60,7 +60,8 @@ nav ul li:last-child {
     margin-right: 24px;
 }
 
-nav ul li a {
+nav ul li a,
+nav ul li a:hover {
     display: inline-block;
     outline: none;
     color: #fff;
