@@ -459,8 +459,6 @@ div.lead {
     color: #000;
 }
 
-}
-
 .fa-stack-1x, .fa-stack-2x {
     position: absolute;
     left: 0;
@@ -527,4 +525,8 @@ div.lead {
 
 .quote span {
     width: 86%;
+}
+
+.scenrio {
+    margin-top:20vh;
 }
