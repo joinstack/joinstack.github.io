@@ -423,3 +423,20 @@ h4,h5,h6,
 p {
     font-family: Rubik;
 }
+
+@media (max-width: 991px) {
+    div.lead {
+        margin-bottom: 60px;
+    }
+}
+
+div.lead {
+    margin-bottom: 120px;
+}
+
+.lead {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+}
