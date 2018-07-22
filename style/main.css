@@ -536,3 +536,11 @@ div.lead {
     margin-top:210px;
     font-size: 16px;
 }
+
+.scenrio p,
+.feature-paragraph {
+    font-size: 16px;
+    text-align: center;
+    padding-left: 10px; 
+    padding-right: 10px;
+}
