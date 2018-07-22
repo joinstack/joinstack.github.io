@@ -530,3 +530,9 @@ div.lead {
 .scenrio {
     margin-top:20vh;
 }
+
+.about-container {
+    font-family: Rubik;
+    margin-top:210px;
+    font-size: 16px;
+}

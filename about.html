@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="style/main.css" />
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
 </head>
 <body>
-        <div class="container">
+        <div class="nav-container">
                 <nav>
                     <input type="checkbox" id="nav" class="hidden">
                     <label for="nav" class="nav-btn">
@@ -33,10 +34,18 @@
                     
                 </nav>
             </div>
-    <div class="content-container">
-        <h2>Let me tell you a story</h2>   
+    <div class="container about-container">
+        <div class="row">
+            <div class="col-md-6">
+                    <h2>Let me tell you a story</h2> 
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                    <div id="typedtext"></div> 
+            </div>
+        </div>
     </div>
-    <div id="typedtext"></div> 
     <footer class="footer">
         <nav class="footer_nav">
             <section class="footer_col footer_col-intro">
