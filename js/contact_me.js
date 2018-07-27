@@ -22,7 +22,7 @@ $(function() {
             $.ajax({
                 url: "././mail/contact_me.php",
                 type: "POST",
-                contentType: "application/json",
+                contentType: "application/x-www-form-urlencoded; multipart/form-data",
                 crossDomain: true, 
                 dataType: "json",
                 data: {
