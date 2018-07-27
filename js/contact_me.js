@@ -24,8 +24,9 @@ $(function() {
                 type: "POST",
                 data: {
                     name: name,
-                    service: service,
                     email: email,
+                    service: service,
+                    budget: budget,
                     message: message
                 },
                 cache: false,
