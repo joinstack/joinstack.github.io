@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="61px" viewBox="0 0 91 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="45" cy="9" r="9"></circle>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hire-us@2x" transform="translate(-819.000000, -524.000000)">
+            <g id="section-1" transform="translate(192.000000, 116.000000)">
+                <g id="grid" transform="translate(0.000000, 341.000000)">
+                    <g id="item-copy-2" transform="translate(571.333333, 0.000000)">
+                        <g id="icon" transform="translate(56.000000, 67.000000)">
+                            <circle id="Oval" stroke="#D6372E" stroke-width="4" cx="9" cy="52" r="7"></circle>
+                            <path d="M9,45 C9,25.2570427 25.0048422,9.25230133 44.7476987,9.25230133 C64.490656,9.25230133 80.4954982,25.2570427 80.4954982,45" id="Page-1" stroke="#D6372E" stroke-width="4"></path>
+                            <circle id="Oval-Copy" stroke="#D6372E" stroke-width="4" cx="81" cy="52" r="7"></circle>
+                            <g id="Oval-Copy-2">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <circle stroke="#D6372E" stroke-width="4" cx="45" cy="9" r="7"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

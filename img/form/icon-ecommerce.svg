@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="59px" viewBox="0 0 81 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hire-us@2x" transform="translate(-538.000000, -528.000000)" stroke="#D6372E" stroke-width="4">
+            <g id="section-1" transform="translate(192.000000, 116.000000)">
+                <g id="grid" transform="translate(0.000000, 341.000000)">
+                    <g id="item-copy" transform="translate(285.666667, 1.000000)">
+                        <g id="icon" transform="translate(61.000000, 71.000000)">
+                            <path d="M4.43361842,12 C2.91470109,12 1.81746594,13.3611771 2.02463262,15.2347375 L6.12591509,52.3256466 C6.35509433,54.3982828 7.82273368,56 9.13598264,56 L71.542458,56 C72.8415246,56 74.2640292,54.4183692 74.4569451,52.3589237 L77.9313883,15.2680146 C78.1077862,13.3849046 76.9680195,12 75.4336184,12 L4.43361842,12 Z" id="Rectangle-5"></path>
+                            <path d="M25,27.4760734 L25,42" id="Line-3" stroke-linecap="round"></path>
+                            <path d="M40,27.4760734 L40,42" id="Line-3-Copy" stroke-linecap="round"></path>
+                            <path d="M55,27.4760734 L55,42" id="Line-3-Copy-2" stroke-linecap="round"></path>
+                            <path d="M24.5,1.5 L55.5,1.5" id="Line-4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
