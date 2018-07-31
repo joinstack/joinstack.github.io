@@ -1,5 +1,5 @@
 <?php
-
+ini_set('display_errors', 1);
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
