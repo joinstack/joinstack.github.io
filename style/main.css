@@ -540,7 +540,7 @@ div.lead {
 .scenrio p,
 .feature-paragraph {
     font-size: 16px;
-    text-align: center;
+    text-align: justify;
     padding-left: 10px; 
     padding-right: 10px;
 }
