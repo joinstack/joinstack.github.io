@@ -401,12 +401,21 @@ nav ul li a:hover {
 .body-text li {
  list-style-type: none;
  color: #fff;
+ font-size: 17px;
  border-bottom: 1px solid #fff; 
  margin-right: 10px;
  padding-bottom: 10px;
  text-transform: uppercase;
  padding-top: 10px;
  letter-spacing: .05rem;
+}
+
+li.header {
+    color: #337ab7;
+}
+
+.services-par {
+    font-size: 17px;
 }
 
 .body-text .header {
@@ -567,4 +576,8 @@ div.lead {
 .contact-icon a {
     line-height: 1em;
     z-index: 10;
+}
+
+.cover-paragraph {
+    padding-bottom: 60px;
 }
